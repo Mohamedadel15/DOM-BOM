@@ -1,0 +1,40 @@
+hr{
+    width: 0%;
+    display: inline-block;
+    justify-content: flex-start;
+    position: relative;
+}
+section{
+    height: 100vh;
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-style: italic;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:whitesmoke; 
+}
+section.sec{
+    color: rgb(66, 61, 61);
+}
+section.sec1{
+    background-color: rgb(44, 42, 42);
+}
+section.sec2{
+    background-color: brown;
+}
+section.sec3{
+    background-color: yellowgreen;
+}
+section.sec5{
+    background-color: blueviolet;
+}
+section.sec4{
+    background-color:antiquewhite;
+    color: rgb(40, 28, 85);
+}
+section.sec6{
+    background-color:cadetblue;
+}
